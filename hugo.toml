@@ -1,4 +1,4 @@
 baseURL = 'https://www.zacc.ca'
 languageCode = 'en-ca'
 title = 'Zack Site'
-theme = 'ananke'
+theme = 'hugo-theme-terminal'
